@@ -1,0 +1,8 @@
+1、qrcode和zxing生成二维码参考地址：
+https://blog.csdn.net/u014266877/article/details/53665729
+https://blog.csdn.net/u014766136/article/details/52119198
+https://blog.csdn.net/shuaicihai/article/details/76795303
+#生成二维码带文字
+https://blog.csdn.net/luckly_p/article/details/81911780?utm_source=blogxgwz2
+2、zxing生成条形码参考地址：
+http://gqsunrise.iteye.com/blog/2307314
